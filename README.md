@@ -1,2 +1,4 @@
 # keep-stealth
-Bash script to erase your tracks
+Useful program to erase your tracks on
+- [ ] ssh Linux
+- [ ] ssh Windows
